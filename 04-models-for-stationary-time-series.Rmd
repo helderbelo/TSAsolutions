@@ -128,7 +128,7 @@ as required.
 
 \[
 \begin{aligned}
-  \text{Var}(W_t) & = \text{Var}(Y_t-Y_{t-1})\\
+\text{Var}(W_t) & = \text{Var}(Y_t-Y_{t-1})\\
                   & = \text{Var}(\phi_1Y_{t-1}+e_t-Y_{t-1})\\
                   & = \text{Var}(Y_{t-1}(\phi-1)+\sigma_e^2)\\
                   & = (\phi-1)^2\text{Var}(Y_{t-1}) + \text{Var}(e_t)\\
